@@ -1,4 +1,6 @@
-build/
-data/networks/
+jetson-inference/build/
+jetson-inference/data/networks/
 *.pyc
 *.tar.gz
+.DS_Store
+*/__pycache__/*
